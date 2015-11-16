@@ -1,5 +1,5 @@
 <?php
-namespace Tomaj\Errbit;
+namespace Netbrick\Errbit;
 
 use Tracy\Debugger as TDebugger;
 use Tracy\Logger;
