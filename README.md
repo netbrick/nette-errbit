@@ -20,7 +20,7 @@ Instalation
 Install package via composer:
 
 ``` bash
-composer require tomaj/nette-errbit
+composer require netbrick/nette-errbit
 ```
 
 Usage
