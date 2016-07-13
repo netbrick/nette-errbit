@@ -31,8 +31,8 @@ class ErrbitLogger extends Logger
             TDebugger::setLogger($logger);
 
             \Errbit::instance()
-                ->configure($config)
-                ->start();
+                ->configure($config);
+    //            ->start();
         }
     }
 
