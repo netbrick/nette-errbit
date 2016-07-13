@@ -32,7 +32,7 @@ class ErrbitLogger extends Logger
 
             \Errbit::instance()
                 ->configure($config);
-//                ->start();
+                ->start();
         }
     }
 
